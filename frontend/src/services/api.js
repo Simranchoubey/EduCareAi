@@ -10,3 +10,5 @@ export const calculateLoan = (data) => api.post('/loan/calculate', data)
 export const sendChat = (data) => api.post('/chat', data)
 
 export default api
+
+
